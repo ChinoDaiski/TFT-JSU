@@ -1,0 +1,78 @@
+//$5, 0 ~ 8
+//$4, 9 ~ 20
+//$3, 21 ~ 33
+//$2, 34 ~ 46
+//$1, 47 ~ 59
+
+
+마켓은 버튼을 보여줄때가 오면 바로 할당하여 이를 출력한다. 할당된 버튼은 눌러질시 눌려졌다고 표시되고 사라진다. 표시
+
+마켓은 챔피언 정보를 가진 버튼 제공하고, 플레이어는 버튼을 누른다. 마켓은 버튼이 눌렸는지 확인하여 눌린 버튼의 정보를 읽어 이후 행위를 이어간다.
+
+
+
+
+					//$4, 9 ~ 20
+		Draven,			// 드레이븐
+		Renata_Glask,	// 레나타 글라스크
+		Bye,			// 바이	
+		Brown,			// 브라움
+		Seraphine,		// 세라핀
+		Sibir,			// 시비르
+		Ari,			// 아리
+		Alistar,		// 알리스타
+		Auriana,		// 오리아나
+		Irelia,			// 이렐리아
+		Zin,			// 진
+		Khazix,			// 카직스
+
+						//$3, 21 ~ 33
+		Gangplank,		// 갱플랭크
+		Nar,			// 나르
+		Leona,			// 레오나
+		Lucian,			// 루시안
+		Malzahar,		// 말자하
+		Morgana,		// 모르가나
+		Miss_Fortune,	// 미스 포츈
+		Vecs,			// 벡스
+		Sena,			// 세나
+		Echo,			// 에코
+		Zac,			// 자크
+		Cho_Gath,		// 초가스
+		Tryndamere,		// 트린다미어
+
+						//$2, 34 ~ 46
+		Rek_Sai,		// 렉사이
+		Lulu,			// 룰루
+		Blitzcrank,		// 블리츠크랭크
+		Sejuani,		// 세주아니
+		Swain,			// 스웨인
+		Syndra,			// 신드라
+		Ashe,			// 애쉬
+		Warwick,		// 워윅
+		Zyra,			// 자이라
+		Zilean,			// 질리언
+		Corki,			// 코르키
+		Quinn,			// 퀸
+		Talon,			// 탈론
+
+						//$1, 47 ~ 59
+		Nocturne,	// 녹턴
+		Darius, 	// 다리우스
+		Brand,		// 브랜드
+		Poppy,		// 뽀삐
+		Singed,		// 신지드
+		Ezreal,		// 이즈리얼
+		Illaoi,		// 일라오이
+		Jarvan_IV,	// 자르반 4세
+		Ziggs,		// 직스
+		Camille,	// 카밀
+		Kassadin,	// 카사딘
+		Caitlyn,	// 케이틀린
+		Twitch,		// 트위치
+
+
+
+
+
+

@@ -1,0 +1,375 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="00. MainApp">
+      <UniqueIdentifier>{ea571853-10f6-498d-8db3-a84f1e63be25}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels">
+      <UniqueIdentifier>{41737d75-a3f4-49a2-bfe1-7c40427fd92a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\00. Logo">
+      <UniqueIdentifier>{0a9af330-4e7c-4802-824d-d4e30c61afef}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\01. Loading">
+      <UniqueIdentifier>{d8e060e9-e669-4d0a-8c0e-185ef608a9a2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\02. GamePlay">
+      <UniqueIdentifier>{c12455ef-6cfe-499f-b791-86e26c78f8d9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject">
+      <UniqueIdentifier>{486f33b8-c1a5-4ec9-a2fd-0e1e8b3bcc59}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="99. Defines">
+      <UniqueIdentifier>{80a334db-2690-4721-8746-0845aa02fa97}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\01. Loading\Loader">
+      <UniqueIdentifier>{5ecc6eb9-23ca-4404-918d-4b06cae11eed}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="98. Default">
+      <UniqueIdentifier>{a97b6699-e59f-4c44-b3a0-c19e9eacdd66}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="97. ShaderFiles">
+      <UniqueIdentifier>{db9322e4-f182-4406-afe3-02f8aa734632}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\09. Camera">
+      <UniqueIdentifier>{aa040e6e-12b4-48a7-bfa0-6ca377555fac}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\00. Map">
+      <UniqueIdentifier>{d28058a6-4609-4195-baf5-700bcfe34d8b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\00. Map\Personal">
+      <UniqueIdentifier>{02dee938-787d-4b25-9d66-495a5faa8657}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\00. Map\Center">
+      <UniqueIdentifier>{e5402222-ba8c-43b3-96ed-c99127b6d330}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\01. Player">
+      <UniqueIdentifier>{79158362-b3dd-44b2-a25b-9e29338ebecc}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\02. Champion">
+      <UniqueIdentifier>{69e86d75-affd-4f1a-88a8-64f031e8c1f2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\03. Item">
+      <UniqueIdentifier>{6a6f92a7-5a8f-4f06-8253-16b02179d549}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\04. Market">
+      <UniqueIdentifier>{6d967193-9df0-4aa5-9644-a766ee9b886c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\05. Skill">
+      <UniqueIdentifier>{a467c2fa-a7a7-48f1-b42b-8845305f0c4f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\06. UI">
+      <UniqueIdentifier>{44fd7472-1f1d-44ba-a019-9c26ffbad4cb}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\06. UI\00. Logo">
+      <UniqueIdentifier>{8df1393a-44cf-4a4d-8a72-c32cdd63d9e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\06. UI\01. Loading">
+      <UniqueIdentifier>{11ebba9d-776e-4f4a-ac0f-5f7317558399}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\06. UI\02. GamePlay">
+      <UniqueIdentifier>{c9fe42f2-8823-4ba5-95fe-d7f917d0b468}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\06. UI\03. Ending">
+      <UniqueIdentifier>{fd643313-e269-4793-80a9-8f6a4898dd4b}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\07. Augmentation%28증강체%29">
+      <UniqueIdentifier>{15b2848b-1b30-441d-9186-6bb601bba5b2}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button">
+      <UniqueIdentifier>{e05c82e9-0475-4e02-8714-53cb91ee4d0f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="01. Levels\03. Ending">
+      <UniqueIdentifier>{2a3821fe-0b84-480b-8375-a5a47b4e23f1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button\Lock_Unlock">
+      <UniqueIdentifier>{b0a5a19e-b185-4c37-a2d5-894a10d0edc5}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button\MiniMap">
+      <UniqueIdentifier>{32fc7b75-4ca1-4161-9131-1694241d66a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button\Champion">
+      <UniqueIdentifier>{ae53debc-f655-4529-8cff-1b6a94331805}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button\LevelUp">
+      <UniqueIdentifier>{75e289e4-3858-45dc-8219-5f7404c2e6a8}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\08. Button\Reroll">
+      <UniqueIdentifier>{a1cea73e-f90a-4da6-a29b-2e6c7dbf1bfd}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\10. MapObejct">
+      <UniqueIdentifier>{dc546c2b-6bc8-4ded-8ea8-3591cecef9c0}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\11. Tile">
+      <UniqueIdentifier>{2eebad1f-e91c-43d2-af1e-2c981b3dad3c}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\12. PickingObject">
+      <UniqueIdentifier>{c4582c81-e43a-4b6e-8192-447a02d879b1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\13. Mouse">
+      <UniqueIdentifier>{7d087715-60df-40bb-8432-f8f69fc86dda}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\14. Hexacore">
+      <UniqueIdentifier>{935c99e4-47d4-450a-aa01-11ac6c45f03a}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster">
+      <UniqueIdentifier>{ee657c95-65b9-4a3b-888d-dc2a87c086e1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\00. MinionMelee">
+      <UniqueIdentifier>{65db78ed-4f21-4055-8730-b935d91c4953}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\01. MinionRanged">
+      <UniqueIdentifier>{08942d61-5710-419e-b3b2-8d512558d18e}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\02. Mukwolf%28늑대%29">
+      <UniqueIdentifier>{bd571087-c0b4-499f-8f77-9f6cbfe214ff}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\03. Krug%28돌거북%29">
+      <UniqueIdentifier>{d29e1328-f6bd-4605-8658-55d9ce0fab04}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\04. Razorbeak%28칼날부리%29">
+      <UniqueIdentifier>{5043ab8a-dde7-44ac-add7-3983c5a482d6}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="02. GameObject\15. Monster\05. Riftherald%28전령%29">
+      <UniqueIdentifier>{23386241-048f-4474-831a-dcbe118cd06b}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <Text Include="ReadMe.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="Client.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>98. Default</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MainApp.h">
+      <Filter>00. MainApp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Client_Defines.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_GamePlay.h">
+      <Filter>01. Levels\02. GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Loading.h">
+      <Filter>01. Levels\01. Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Level_Logo.h">
+      <Filter>01. Levels\00. Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Camera_Default.h">
+      <Filter>02. GameObject\09. Camera</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Loader.h">
+      <Filter>01. Levels\01. Loading\Loader</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Bin\ShaderFiles\Shader_Defines.hlsli">
+      <Filter>97. ShaderFiles</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\CenterMap.h">
+      <Filter>02. GameObject\00. Map\Center</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Champion.h">
+      <Filter>02. GameObject\02. Champion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PersonalMap.h">
+      <Filter>02. GameObject\00. Map\Personal</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Player.h">
+      <Filter>02. GameObject\01. Player</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Market.h">
+      <Filter>02. GameObject\04. Market</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Item.h">
+      <Filter>02. GameObject\03. Item</Filter>
+    </ClInclude>
+    <ClInclude Include="Client_Struct.h">
+      <Filter>99. Defines</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Skill.h">
+      <Filter>02. GameObject\05. Skill</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Augmentation.h">
+      <Filter>02. GameObject\07. Augmentation%28증강체%29</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button.h">
+      <Filter>02. GameObject\08. Button</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Logo.h">
+      <Filter>02. GameObject\06. UI\00. Logo</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_GamePlay.h">
+      <Filter>02. GameObject\06. UI\02. GamePlay</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Ending.h">
+      <Filter>02. GameObject\06. UI\03. Ending</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI_Loading.h">
+      <Filter>02. GameObject\06. UI\01. Loading</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\UI.h">
+      <Filter>02. GameObject\06. UI</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button_MiniMap.h">
+      <Filter>02. GameObject\08. Button\MiniMap</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button_LockUnlock.h">
+      <Filter>02. GameObject\08. Button\Lock_Unlock</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button_Reroll.h">
+      <Filter>02. GameObject\08. Button\Reroll</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button_Champion.h">
+      <Filter>02. GameObject\08. Button\Champion</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Button_LevelUp.h">
+      <Filter>02. GameObject\08. Button\LevelUp</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Tile.h">
+      <Filter>02. GameObject\11. Tile</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\PickingObject.h">
+      <Filter>02. GameObject\12. PickingObject</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\MapObject.h">
+      <Filter>02. GameObject\10. MapObejct</Filter>
+    </ClInclude>
+    <ClInclude Include="..\Public\Mouse.h">
+      <Filter>02. GameObject\13. Mouse</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="Client.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.cpp">
+      <Filter>98. Default</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MainApp.cpp">
+      <Filter>00. MainApp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_GamePlay.cpp">
+      <Filter>01. Levels\02. GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Loading.cpp">
+      <Filter>01. Levels\01. Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Level_Logo.cpp">
+      <Filter>01. Levels\00. Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Camera_Default.cpp">
+      <Filter>02. GameObject\09. Camera</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Loader.cpp">
+      <Filter>01. Levels\01. Loading\Loader</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\CenterMap.cpp">
+      <Filter>02. GameObject\00. Map\Center</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Champion.cpp">
+      <Filter>02. GameObject\02. Champion</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PersonalMap.cpp">
+      <Filter>02. GameObject\00. Map\Personal</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Player.cpp">
+      <Filter>02. GameObject\01. Player</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Market.cpp">
+      <Filter>02. GameObject\04. Market</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Item.cpp">
+      <Filter>02. GameObject\03. Item</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Skill.cpp">
+      <Filter>02. GameObject\05. Skill</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Augmentation.cpp">
+      <Filter>02. GameObject\07. Augmentation%28증강체%29</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button.cpp">
+      <Filter>02. GameObject\08. Button</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Logo.cpp">
+      <Filter>02. GameObject\06. UI\00. Logo</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI.cpp">
+      <Filter>02. GameObject\06. UI</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Ending.cpp">
+      <Filter>02. GameObject\06. UI\03. Ending</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_GamePlay.cpp">
+      <Filter>02. GameObject\06. UI\02. GamePlay</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\UI_Loading.cpp">
+      <Filter>02. GameObject\06. UI\01. Loading</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button_MiniMap.cpp">
+      <Filter>02. GameObject\08. Button\MiniMap</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button_LevelUp.cpp">
+      <Filter>02. GameObject\08. Button\LevelUp</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button_Champion.cpp">
+      <Filter>02. GameObject\08. Button\Champion</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button_LockUnlock.cpp">
+      <Filter>02. GameObject\08. Button\Lock_Unlock</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Button_Reroll.cpp">
+      <Filter>02. GameObject\08. Button\Reroll</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Tile.cpp">
+      <Filter>02. GameObject\11. Tile</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\PickingObject.cpp">
+      <Filter>02. GameObject\12. PickingObject</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\MapObject.cpp">
+      <Filter>02. GameObject\10. MapObejct</Filter>
+    </ClCompile>
+    <ClCompile Include="..\Private\Mouse.cpp">
+      <Filter>02. GameObject\13. Mouse</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="Client.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+    <Image Include="small.ico">
+      <Filter>98. Default</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="Client.rc">
+      <Filter>98. Default</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxTex.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxNorTex.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxTex_UI.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnim.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+    <FxCompile Include="..\Bin\ShaderFiles\Shader_VtxAnim_Character.hlsl">
+      <Filter>97. ShaderFiles</Filter>
+    </FxCompile>
+  </ItemGroup>
+</Project>
